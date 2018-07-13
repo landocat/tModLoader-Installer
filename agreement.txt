@@ -1,0 +1,12 @@
+tModLoader installer GUI - by lando
+www.steamcommunity.com/id/Strikezes
+
+By using this software, you agree to the tModLoader disclaimer and agreements
+The disclaimer is as follows;
+* By downloading tModLoader, you agree to everything in this disclaimer and agreements.
+* I am not responsible for anything that happens to your computer if you download tModLoader. Common sense stuff.
+* Do not use tModLoader to do anything that breaks the Terraria Forums rules. In other words, the rules for making and sharing mods are the same as the rules for sharing mods on these forums; no removed items, no console content, etc.
+* Mods uploaded through the Mod Browser are tagged with your Steam username, so we will know if you do something bad.
+* You are allowed to mod tModLoader (similar to how tModLoader is a mod of Terraria), given that you provide a link to this thread.
+
+I will not be helping those who own pirated/cracked software.

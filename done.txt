@@ -1,0 +1,5 @@
+Done!
+The next time you launch Terraria, tModLoader should be installed! Keep in mind
+that your existing character/world files are not deleted. tModLoader has its own directory
+for storing character/world files. Just copy your vanilla character/world files to the
+tModLoader players/world directory
